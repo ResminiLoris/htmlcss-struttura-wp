@@ -33,15 +33,20 @@
     background-color: #E1D67A;
 }
 
-.purple{
+.purple {
     height: 50px;
-    background-color: #8801FE;
+    background-color: purple;
 }
 
 /* contenitore-blu */
 .blue {
-    height: 700px;
+    height: 800px;
     background-color: #0685F8;
+}
+
+#blue-wrapper {
+    margin-bottom: 10px;
+    
 }
 
 .blue div{
@@ -72,3 +77,5 @@ margin-left: 0;
 #center{
     width: 50%;
 }
+
+
